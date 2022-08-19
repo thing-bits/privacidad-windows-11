@@ -55,7 +55,7 @@ Comentarios y diagnósticos: Desactivado todo y en Frecuencias de comentarios el
 Historial de actividad: ninguna opción seleccionada
 Permisos de búsqueda: Desactivado todo
 Ubicación: Servicio de ubicación Desactivado
-Notificaciones: Desactivado (por si te molestan que con el Windows 7 no había y no me importaba :smile: )
+Notificaciones: Desactivado (por si te molestan que con el Windows 7 no había y no me importaba `:smile:` )
 Información de cuenta: Desactivado
 Diagnósticos de la aplicación: Desactivado
 ```
