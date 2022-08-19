@@ -82,6 +82,7 @@ Compartir entre dispositivos: Desactivado
 
 ```
 Inicio - Mostrar aplicaciones agregadas recientemente, Mostrar las aplicaciones más usadas y Mostrar los elementos abiertos recientemente...: Desactivado
+
 Barra de tarea - Buscar, Widgets y Chat: Desactivado
 ```
 
@@ -117,6 +118,7 @@ Cuando le damos a inicio y escribimos el nombre de una aplicación suele salir t
 
 ```
 Directiva Equipo local - Configuración del equipo - Plantilla administrativa - Componentes de Windows - Buscar - No permitir búsqueda en la Web
+
 Directiva Equipo local - Configuración del equipo - Plantilla administrativa - Componentes de Windows - Buscar - No buscar en Internet o mostrar resultados de Internet en Search
 ```
 
@@ -164,6 +166,7 @@ Experiencias del usuario y telemetría asociadas
 
 ```
 Programador de tareas (local) - Biblioteca del Programador de tareas - Microsoft - Windows - Application Experience - Microsoft Compatibility Appraiser
+
 Programador de tareas (local) - Biblioteca del Programador de tareas - Microsoft - Windows - Application Experience - ProgramDataUpdater
 ```
 
